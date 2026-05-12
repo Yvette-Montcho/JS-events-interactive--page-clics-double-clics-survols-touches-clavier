@@ -3,7 +3,7 @@
 ## Objectif pédagogique
 
 Apprendre à détecter et réagir aux événements utilisateur en JavaScript :  
-clics, double-clics, survols, touches clavier — en manipulant le DOM en temps réel.
+clics, double-clics, survols, touches clavier - en manipulant le DOM en temps réel.
 
 ---
 
@@ -71,7 +71,7 @@ code --install-extension formulahendry.auto-rename-tag
 
 ## Exécution du projet avec VS Code
 
-### Méthode recommandée — Live Server
+### Méthode recommandée - Live Server
 
 1. **Ouvrir le dossier** dans VS Code :
    ```
@@ -90,7 +90,7 @@ code --install-extension formulahendry.auto-rename-tag
 
 > Toute modification de `script.js` sera rechargée automatiquement grâce à Live Server.
 
-### Méthode alternative — Ouverture directe
+### Méthode alternative - Ouverture directe
 
 Double-cliquer sur `exo_events.html` pour l'ouvrir dans le navigateur par défaut.  
 ⚠️ Certaines fonctionnalités peuvent être limitées par les restrictions CORS du protocole `file://`.  
@@ -116,9 +116,9 @@ Préférez Live Server pour une expérience complète.
 
 ## Technologies utilisées
 
-- **HTML5** — Structure de la page
-- **Bootstrap 5.3** (CDN) — Grille responsive et composants UI
-- **JavaScript ES6** — Logique interactive (vanilla JS, aucune dépendance)
+- **HTML5** - Structure de la page
+- **Bootstrap 5.3** (CDN) - Grille responsive et composants UI
+- **JavaScript ES6** - Logique interactive (vanilla JS, aucune dépendance)
 
 ---
 
